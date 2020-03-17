@@ -13,13 +13,13 @@ int main()
 	cout << "Lutfen isminizi giriniz: ";
 	cin >> isim;
    
-    cout << "Lutfen soyadinizi giriniz: ";
+        cout << "Lutfen soyadinizi giriniz: ";
 	cin >> soyad;
 		
 	cout << "Lutfen yasinizi giriniz: ";
 	cin >> yas;
     
-    cout << "Ismiziniz: " << isim << " Soyadiniz: " << soyad << " Yasiniz: " << yas;
+        cout << "Ismiziniz: " << isim << " Soyadiniz: " << soyad << " Yasiniz: " << yas;
 	 
 	return 0;
 }
