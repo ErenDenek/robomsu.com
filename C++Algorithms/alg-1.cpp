@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <conio.h> // to use the system pause cmd "getch()"
+
 
 using namespace std;
 
